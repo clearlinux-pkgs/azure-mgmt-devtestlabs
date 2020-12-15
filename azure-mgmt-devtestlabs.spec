@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-devtestlabs
 Version  : 4.0.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/f0/18/ef3217b4ef0acc25d1ed20f5e873f6ad3fe80dafaf8b9c17349063bb1d98/azure-mgmt-devtestlabs-4.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/f0/18/ef3217b4ef0acc25d1ed20f5e873f6ad3fe80dafaf8b9c17349063bb1d98/azure-mgmt-devtestlabs-4.0.0.zip
 Summary  : Microsoft Azure DevTestLabs Management Client Library for Python
